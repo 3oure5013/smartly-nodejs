@@ -70,3 +70,5 @@ async function getIntent( urlGeneral,token, botId){
  }
  
  dialogWithBot()
+
+ 
